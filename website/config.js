@@ -1,6 +1,6 @@
-var api = "https://pool.sumokoin.com:9118";
+var api = "http://moneropool.gq:8118";
 
-var poolHost = "pool.sumokoin.com";
+var poolHost = "moneropool.gq";
 
 var irc = "irc.freenode.net/#sumocoin";
 
