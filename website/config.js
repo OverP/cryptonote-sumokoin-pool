@@ -1,4 +1,4 @@
-var api = "http://moneropool.gq:8119";
+var api = "http://moneropool.gq:9000";
 
 var poolHost = "moneropool.gq";
 
