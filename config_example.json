@@ -98,7 +98,7 @@
         "enabled": true,
         "hashrateWindow": 600,
         "updateInterval": 30,
-        "port": 8119,
+        "port": 9000,
         "blocks": 30,
         "payments": 30,
         
