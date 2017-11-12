@@ -25,22 +25,22 @@
         "minerTimeout": 900,
         "ports": [
             {
-                "port": 3333,
+                "port": 3334,
                 "difficulty": 1000,
                 "desc": "Low end hardware"
             },
             {
-                "port": 5555,
+                "port": 5556,
                 "difficulty": 2000,
                 "desc": "Mid range hardware"
             },
             {
-                "port": 7777,
+                "port": 7778,
                 "difficulty": 10000,
                 "desc": "High end hardware"
             },
             {
-                "port": 8888,
+                "port": 8889,
                 "difficulty": 10000,
                 "desc": "Hidden port",
                 "hidden": true
