@@ -1,4 +1,4 @@
-cryptonote-sumokoin-pool
+cryptonote-sumokoin-pooldawdaw
 ====================
 
 High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Bytecoin, DuckNote, Monero, QuazarCoin, Boolberry, Dashcoin, Sumokoin etc..
