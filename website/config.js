@@ -1,6 +1,6 @@
-var api = "http://moneropool.gq:8118";
+var api = "http://sumo.coinsvault.eu:8118";
 
-var poolHost = "moneropool.gq";
+var poolHost = "sumo.coinsvault.eu";
 
 var irc = "irc.freenode.net/#sumocoin";
 
