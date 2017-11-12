@@ -25,12 +25,6 @@
         "minerTimeout": 900,
         "ports": [
             {
-                "port": 443,
-                "difficulty": 20000,
-                "desc": "SSL",
-                "type": "SSL"
-            },
-            {
                 "port": 3333,
                 "difficulty": 1000,
                 "desc": "Low end hardware"
