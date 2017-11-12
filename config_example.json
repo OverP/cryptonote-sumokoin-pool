@@ -1,6 +1,6 @@
 {
-    "coin": "monero",
-    "symbol": "XMR",
+    "coin": "electroneum",
+    "symbol": "ETN",
     "coinUnits": 100000000,
     "coinDifficultyTarget": 120,
 
@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "4A2Gv6uMc3vZsGMTEMnBsgaJMtQeEBCzaigneqJN8bzkTit2Di5MVm2fjE9rfWMz4yMVxSBL3Q9QzbafXUBXzUcANNnjjEn",
+        "poolAddress": "etnk6XTGsSuPJdEBcDZvi7DCDFx6277vVT6t2FLBUxf5VPy2eVJgq3KaEvGM2uf1cvdNMHgXBP9b39SJ1TRVhk7r1m8itvG7XD",
         "blockRefreshInterval": 100,
         "blockRefreshForce": 100,
         "minerTimeout": 900,
@@ -83,28 +83,28 @@
         "enabled": true,
         "interval": 600,
         "maxAddresses": 50,
-        "mixin": 3,
-        "transferFee": 5000000000,
-        "minPayment": 1000000000000,
+        "mixin": 0,
+        "transferFee": 1,
+        "minPayment": 10000,
         "maxTransactionAmount": 0,
-        "denomination": 100000000000
+        "denomination": 100
     },
 
     "blockUnlocker": {
         "enabled": true,
         "interval": 30,
-        "depth": 60,
-        "poolFee": 2,
-        "devDonation": 0.1,
-        "coreDevDonation": 0.1,
-        "extraFeaturesDevDonation":0.1
+        "depth": 20,
+        "poolFee": 1,
+        "devDonation": 0.0,
+        "coreDevDonation": 0.0,
+        "extraFeaturesDevDonation":0.0
     },
 
     "api": {
         "enabled": true,
         "hashrateWindow": 600,
         "updateInterval": 30,
-        "port": 8117,
+        "port": 8119,
         "blocks": 30,
         "payments": 30,
         "ssl": false,
