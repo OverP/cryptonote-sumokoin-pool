@@ -1,6 +1,6 @@
 var api = "http://etn.coinsvault.eu:8119";
 
-var poolHost = "etn.coinsvault.eu;
+var poolHost = "etn.coinsvault.eu";
 
 var irc = "irc.freenode.net/#sumocoin";
 
